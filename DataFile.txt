@@ -1,0 +1,10 @@
+gr22njoa	gr22njoa!	computer,100000000,1	;	;
+greenjoa123	greenjoa123!	삼성노트북,200000,0	녹색니트,300000,1	;	cookie,8000,1	;
+gildong123	gildong123!	애플노트북,150000,0	;	파란색니트,300000,1	coffee,15000,1	;
+redjoa123	redjoa123!	;	엘지노트북,300000,1	붉은색니트,15000,1	computer,100000000,1	;
+jiared1	jiared1!	cookie,8000,0	chocolate,4000,0	cookie,8000,1	cookie,8000,1	coffee,5000,0	coffee,10000,1	coffee,15000,1	coffee,1000,0	jelly,2500,1	wallet,200000,1	wallet,1000000,0	chocolate cookie,9000,0	;	cookie,8000,1	coffee,10000,1	jelly,2500,1	;
+dudu22	dudu22!	;	;
+meee123	meee123!	;	;
+home1	home1!	phone,800000,0	phone,80000000,0	;	wallet,200000,1	;
+
+ss22	ss22!	;	;

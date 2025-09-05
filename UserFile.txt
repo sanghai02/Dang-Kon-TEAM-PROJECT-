@@ -1,0 +1,4 @@
+gr22njoa,gr22njoa!,0.0,0,Bronze,,0,	;	;	
+greenjoa123,greenjoa123!,2.0,3,Bronze,Danger,0,	0	5	;	1	4	;	6	
+gildong123,gildong123!,4.0,3,Bronze,,0,	1	2	6	8	;	3	;	8	
+redjoa123,redjoa123!,5.0,2,Bronze,,0,	;	0	2	7	;	
